@@ -47,13 +47,19 @@
 .word-ser li a{line-height:20px;border-right:2px solid #E7E7E7;height:20px;text-align:center;display: block;color:#737373;}
 .word-ser li.current a{color:#fff;}
 /*用户名片*/
-.PerList li{float:left;display:block;width:158px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 20px 9px;padding:5px;}
+.PerList li{float:left;display:block;width:158px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 15px 9px;padding:5px;border-radius:3px;}
 .PerList li .PerImg,.PerList li .PerImg img{display:block;width:60px;height:60px;border-radius:3px;}
-.PerList li .PerImg{padding:1px;border:1px solid #fff;background:#fff;}
+.PerList li .PerImg{padding:1px;border:1px solid #fff;backdground:#fff;}
 .PerList li .PerImg img{vertical-align:bottom;}
 .PerList li .CardTop dl{margin-left:5px;width:89px;}
 .PerList li .CardTop dl dd{line-height:20px;color:#999;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:block;}
+.PerList li:hover .CardTop dl dd{color:#666;}
 .PerList li .CardTop dl dd span{color:#333;font-size:14px;padding:2px 0 3px 0;display:block;}
+.PerList .CardBt h2,.PerList .CardBt p{line-height:16px;padding:0 2px;color:#666;}
+.PerList .CardBt h2{line-height:17px;float:left;width:30px;height:35px;margin-top:3px;text-align:center;}
+.PerList .CardBt p{line-height:18px;}
+.PerList .CardBt p span{float:right;color:#999}
+.PerList .CarTime{margin-top:3px;}
 /*分页器*/
 .pagenation{position:absolute;bottom:10px;right:20px;}
 .pageTop a,.pageTop span{padding:4px 8px;display:inline-block;margin-left:-5px;border:1px solid #E7E7E7;background:#fff;color:#333;}
@@ -62,14 +68,15 @@
 .pageTop .no,.pageTop .no:hover{color:#E7E7E7;cursor:inherit;background-color:#fff;}
 .pageBt span,.pageBt a{color:#333;margin:3px 0 0 20px;display:inline-block;}
 .pageBt span{color:#999;}
-
-
-
-
-
-
-
-
+/*弹出层*/
+.AppPop{padding:5px;border-radius:5px;background:url("../img/pop-mask-bg.png") repeat;position:absolute;}
+.PopInner{background:#fff;}
+.PopTitle{background:#f7f7f7;border-bottom:1px solid #eaeaea;height:32px;line-height:32px;padding:10px 10px 10px 20px;position:relative;font-size:16px;}
+.PopMain{padding:25px 20px 20px 20px;min-height:200px;}
+a.off{font-weight:bold;font-size:14px;padding:2px 5px;position:absolute;top:5px;right:5px;line-height:20px;}
+.PopLeft{width:80px;text-align:center;}
+.PopLeft ul li a{display:block;line-height:20px;height:20px;color:#333;padding:4px 5px;}
+.PopRight{min-height:100px;margin-left:80px;padding:5px;}
 
 
 
