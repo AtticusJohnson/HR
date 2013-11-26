@@ -3,7 +3,7 @@
 .word-ser li.current a,.PerList li:hover{border-color:#0066CC;}/*主色*/
 .AppTopBar,.AppNavT ul li a:hover,.AppNavT ul li.current a{color:#0066CC;}
 /*背景色*/
-.AppTopBar,.word-ser li a:hover{background-color:#EDF4FB;}/*浅色*/
+.AppTopBar,.word-ser li a:hover,.PerList li{background-color:#EDF4FB;}/*浅色*/
 .down-list li:hover,.word-ser li.current a{background-color:#0066cc;}/*深色*/
 
 
