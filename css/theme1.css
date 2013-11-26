@@ -1,6 +1,6 @@
 /*字体颜色和边框*/
-.AppLayout,.AppTopBar,.AppNav,.AppNavT,.word-ser li a:hover{border-color:#D4E5F6;}
-.word-ser li.current a{border-color:#0066CC;}
+.AppLayout,.AppTopBar,.AppNav,.AppNavT,.word-ser li a:hover,.PerList li{border-color:#D4E5F6;}/*辅助色*/
+.word-ser li.current a,.PerList li:hover{border-color:#0066CC;}/*主色*/
 .AppTopBar,.AppNavT ul li a:hover,.AppNavT ul li.current a{color:#0066CC;}
 /*背景色*/
 .AppTopBar,.word-ser li a:hover{background-color:#EDF4FB;}/*浅色*/
