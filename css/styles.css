@@ -47,14 +47,15 @@
 .word-ser li a{line-height:20px;border-right:2px solid #E7E7E7;height:20px;text-align:center;display: block;color:#737373;}
 .word-ser li.current a{color:#fff;}
 /*用户名片*/
-.PerList li{float:left;display:block;width:168px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 20px 9px;}
-.PerList li .PerImg,.PerList li .PerImg img{display:block;width:70px;height:70px;}
+.PerList li{float:left;display:block;width:158px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 20px 9px;padding:5px;}
+.PerList li .PerImg,.PerList li .PerImg img{display:block;width:60px;height:60px;border-radius:3px;}
+.PerList li .PerImg{padding:1px;border:1px solid #fff;background:#fff;}
 .PerList li .PerImg img{vertical-align:bottom;}
-.PerList li .CardTop dl{margin-left:5px;width:92px;}
+.PerList li .CardTop dl{margin-left:5px;width:89px;}
 .PerList li .CardTop dl dd{line-height:20px;color:#999;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:block;}
-.PerList li .CardTop dl dd span{color:#333;font-size:14px;padding:2px 0 4px 0;display:block;}
+.PerList li .CardTop dl dd span{color:#333;font-size:14px;padding:2px 0 3px 0;display:block;}
 /*分页器*/
-.pagenation{}
+.pagenation{position:absolute;bottom:10px;right:20px;}
 .pageTop a,.pageTop span{padding:4px 8px;display:inline-block;margin-left:-5px;border:1px solid #E7E7E7;background:#fff;color:#333;}
 .pageTop a:hover{background-color:#F7F7F7;}
 .pageTop a:active,.pageTop span.current{background-color:#EBEBEB;}
