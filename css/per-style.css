@@ -1,15 +1,18 @@
 .PerMain{width:718px;min-height:600px;}
-.UserInfo-top{height:auto;}
-.UserInfo-top .PerImg,.UserInfo-top .PerImg img{width:80px;height:100px;display:inline-block;}
-.UserInfo-top .PerImg{position:relative;top:-10px;}
-.UserTbale{margin-left:10px;display:inline-block;}
+.UserInfo-top{}
+.UserInfo-top .PerImg,.UserInfo-top .PerImg img{width:100px;height:100px;display:inline-block;}
+.UserInfo-top .PerImg{position:relative;}
+.UserTbale{margin-left:10px;}
 .UserTbale th{color:#999;height:22px;vertical-align: top;}
 .UserTbale td{color:#666;vertical-align: top;}
-.PerName{padding-bottom:10px;}
-.Info{border-top:1px dotted;padding-top:10px;}
-.Info th{height:30px;}
-
-
+.PerName{padding-bottom:10px;display:inline-block;line-height:20px;}
+.Info{border-top:1px dotted;}
+.Info th,.Info td{padding:15px 0;height:10px;}
+.WorkStory th,.WorkStory td{padding:7px 0;color:#666;}
+.WorkStory thead th{font-size:13px;height:20px;line-height:20px;text-align: center;}
+.WorkStory tbody th{text-align:left;}
+.WorkStory tbody td{text-align:center;}
+.WorkStory td{padding:5px;color:#999;}
 
 
 

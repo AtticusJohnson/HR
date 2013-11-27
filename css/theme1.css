@@ -1,11 +1,11 @@
 /*字体颜色和边框*/
-.AppLayout,.AppTopBar,.AppNav,.AppNavT,.word-ser li a:hover,.PerList li:hover,.PopRight,.Info{border-color:#D4E5F6;}/*辅助色*/
-.word-ser li.current a,.button{border-color:#0066CC;}/*主色*/
+.AppLayout,.AppTopBar,.AppNav,.AppNavT,.word-ser li a:hover,.PerList li:hover,.PopRight,.Info,.edit,.PopLeft ul li a:hover{border-color:#D4E5F6;}/*辅助色*/
+.word-ser li.current a,.button,.edit,.PopLeft ul li a.current{border-color:#0066CC;}/*主色*/
 .PerList li{border-color:#E7E7E7;}/*灰色边框*/
 .AppTopBar,.AppNavT ul li a:hover,.AppNavT ul li.current a,.PopTitle,.PerName,.a-link{color:#0066CC;}
 .off{color:#004488;}/*关闭按钮的颜色-深色*/
 /*背景色*/
-.AppTopBar,.word-ser li a:hover,.PerList li,.PopLeft ul li a:hover{background-color:#EDF4FB;}/*浅色*/
+.AppTopBar,.word-ser li a:hover,.PerList li,.PopLeft ul li a:hover,.WorkStory tbody tr:hover,.WorkStory thead th{background-color:#EDF4FB;}/*浅色*/
 .PerList li:hover,.PopLeft ul li a.current{background-color:#D4E5F6;}/*辅助色*/
 .down-list li:hover,.word-ser li.current a,.button{background-color:#0066cc;}/*主色*/
 .button:hover{background-color:#004488;}/*深色*/
