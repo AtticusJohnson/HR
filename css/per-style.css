@@ -1,10 +1,13 @@
 .PerMain{width:718px;min-height:600px;}
-
-
-
-
-
-
+.UserInfo-top{height:auto;}
+.UserInfo-top .PerImg,.UserInfo-top .PerImg img{width:80px;height:100px;display:inline-block;}
+.UserInfo-top .PerImg{position:relative;top:-10px;}
+.UserTbale{margin-left:10px;display:inline-block;}
+.UserTbale th{color:#999;height:22px;vertical-align: top;}
+.UserTbale td{color:#666;vertical-align: top;}
+.PerName{padding-bottom:10px;}
+.Info{border-top:1px dotted;padding-top:10px;}
+.Info th{height:30px;}
 
 
 

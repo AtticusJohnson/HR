@@ -1,6 +1,6 @@
 /*公用的边框样式*/
 .border-solid{border-width:1px;border-style:solid;}
-.border-dashed{border-width:1px;border-style:dashed;}
+.border-dashed{border-width:1px;border-style:dotted;}
 .no-border-top{border-top:0;}
 .no-border-bottom{border-bottom:0;}
 .no-rl-boder{border-width:1px 0;}
@@ -73,10 +73,34 @@
 .PopInner{background:#fff;}
 .PopTitle{background:#f7f7f7;border-bottom:1px solid #eaeaea;height:32px;line-height:32px;padding:10px 10px 10px 20px;position:relative;font-size:16px;}
 .PopMain{padding:25px 20px 20px 20px;min-height:200px;}
-a.off{font-weight:bold;font-size:14px;padding:2px 5px;position:absolute;top:5px;right:5px;line-height:20px;}
+.off{font-weight:bold;font-size:14px;padding:2px 5px;position:absolute;top:5px;right:5px;line-height:20px;cursor:pointer;}
 .PopLeft{width:80px;text-align:center;}
-.PopLeft ul li a{display:block;line-height:20px;height:20px;color:#333;padding:4px 5px;}
-.PopRight{min-height:100px;margin-left:80px;padding:5px;}
+.PopLeft ul li a{display:block;line-height:20px;height:20px;color:#333;padding:4px 5px;margin-bottom:5px;}
+.PopRight{min-height:320px;margin-left:80px;padding:5px;}
+/*按钮*/
+.button{padding:2px 15px;color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);display:inline-block;line-height:20px;text-align: center;border:1px solid #ccc;cursor:pointer;box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);}
+.a-link:hover{text-decoration:underline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
