@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c12a4a4-5a54-4b92-bb31-90c33a042288" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/信息修改弹出.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/工作经历.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/新增员工.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/院校经历.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/theme1/theme-ico.png" afterPath="$PROJECT_DIR$/img/theme1/theme-ico.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/per-style.css" afterPath="$PROJECT_DIR$/css/per-style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/personnel-files.html" afterPath="$PROJECT_DIR$/template/personnel-files.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme1.css" afterPath="$PROJECT_DIR$/css/theme1.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/信息修改弹出.html" afterPath="$PROJECT_DIR$/template/信息修改弹出.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/工作经历.html" afterPath="$PROJECT_DIR$/template/工作经历.html" />
     </list>
     <ignored path="HR.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385515327222" ignored="false" />
-    <file path="/styles.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385541023277" ignored="false" />
-    <file path="/personnel-files.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385544867859" ignored="false" />
-    <file path="/theme1.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385545728921" ignored="false" />
+    <file path="/Dummy.txt" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385601007634" ignored="false" />
+    <file path="/styles.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385618949011" ignored="false" />
+    <file path="/personnel-files.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385619091947" ignored="false" />
+    <file path="/theme1.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385618701419" ignored="false" />
     <file path="/global.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385537522886" ignored="false" />
     <file path="$USER_HOME$/Documents/GitHub/zhaoy/dqy-html/css/dqy-style.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385359693121" ignored="false" />
     <file path="$USER_HOME$/Documents/GitHub/zhaoy/dqy-html/css/global.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385359693121" ignored="false" />
@@ -31,7 +33,9 @@
     <file path="$USER_HOME$/Documents/GitHub/mdLA/md-plus/css/theme3-style.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385536102280" ignored="false" />
     <file path="$USER_HOME$/Documents/GitHub/mdLA/md-plus/css/theme5-style.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385536106032" ignored="false" />
     <file path="$USER_HOME$/Documents/GitHub/mdLA/md-plus/css/theme6-style.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385536109174" ignored="false" />
-    <file path="/工作经历.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385545250414" ignored="false" />
+    <file path="/工作经历.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385618770146" ignored="false" />
+    <file path="/新增员工.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385618441294" ignored="false" />
+    <file path="/院校经历.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1385618920827" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
       <file leaf-file-name="personnel-files.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="450" column="24" selection-start="18008" selection-end="18008" vertical-scroll-proportion="0.65636367">
+            <state line="369" column="10" selection-start="14768" selection-end="14768" vertical-scroll-proportion="0.38224638">
               <folding>
                 <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -79,9 +83,21 @@
                 <element signature="tag#li#23;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#div#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#table#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="新增员工.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/新增员工.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="40" selection-start="3838" selection-end="3838" vertical-scroll-proportion="-3.75">
+              <folding>
+                <element signature="tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -90,17 +106,8 @@
       <file leaf-file-name="信息修改弹出.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="72" selection-start="2395" selection-end="2395" vertical-scroll-proportion="-14.65625">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#0;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#1;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#2;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#tr#3;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="37" column="72" selection-start="1588" selection-end="1588" vertical-scroll-proportion="-6.75">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,7 +115,7 @@
       <file leaf-file-name="per-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/per-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="531" selection-end="550" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,7 +124,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="96" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0">
+            <state line="30" column="65" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,12 +133,28 @@
       <file leaf-file-name="工作经历.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/工作经历.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="39" selection-start="3279" selection-end="3279" vertical-scroll-proportion="-2.0">
+            <state line="5" column="20" selection-start="0" selection-end="4483" vertical-scroll-proportion="-4.21875">
               <folding>
-                <element signature="tag#head#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#0;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#td#3;tag#tr#0;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#1;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="院校经历.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/院校经历.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="92" column="28" selection-start="3841" selection-end="3893" vertical-scroll-proportion="-5.90625">
+              <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#table#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -140,7 +163,7 @@
       <file leaf-file-name="theme1.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="76" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0">
+            <state line="6" column="39" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,13 +199,15 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/template/员工合同.html" />
-        <option value="$PROJECT_DIR$/template/信息修改弹出.html" />
-        <option value="$PROJECT_DIR$/template/personnel-files.html" />
-        <option value="$PROJECT_DIR$/css/per-style.css" />
         <option value="$PROJECT_DIR$/css/global.css" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/css/per-style.css" />
+        <option value="$PROJECT_DIR$/template/信息修改弹出.html" />
+        <option value="$PROJECT_DIR$/template/新增员工.html" />
         <option value="$PROJECT_DIR$/css/theme1.css" />
         <option value="$PROJECT_DIR$/template/工作经历.html" />
+        <option value="$PROJECT_DIR$/template/院校经历.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/template/personnel-files.html" />
       </list>
     </option>
   </component>
@@ -218,7 +243,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,6 +277,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,8 +287,8 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/mdLA/md-plus" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -293,13 +318,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15785554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15711094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -375,47 +400,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="30" selection-start="2467" selection-end="2467" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#ul#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#9;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#10;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#11;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#12;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#13;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#14;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#15;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#16;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#17;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#li#17;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#18;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#19;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#20;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#21;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#22;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#li#23;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#table#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="27" selection-start="2825" selection-end="2843" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="95" selection-end="140" vertical-scroll-proportion="0.0">
@@ -440,31 +424,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/员工合同.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="339" column="19" selection-start="14426" selection-end="14426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="339" column="19" selection-start="14426" selection-end="14426" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-transitional.dtd">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1084" column="10" selection-start="29476" selection-end="29476" vertical-scroll-proportion="0.35144928">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="72" selection-start="2395" selection-end="2395" vertical-scroll-proportion="-14.65625">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#0;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#1;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#2;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#tr#3;tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,42 +448,73 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/css/per-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="96" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/per-style.css">
+    <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="531" selection-end="550" vertical-scroll-proportion="0.0">
+        <state line="37" column="72" selection-start="1588" selection-end="1588" vertical-scroll-proportion="-6.75">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/新增员工.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="40" selection-start="3838" selection-end="3838" vertical-scroll-proportion="-3.75">
+          <folding>
+            <element signature="tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="76" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0">
+        <state line="6" column="39" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/工作经历.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="39" selection-start="3279" selection-end="3279" vertical-scroll-proportion="-2.0">
+        <state line="5" column="20" selection-start="0" selection-end="4483" vertical-scroll-proportion="-4.21875">
           <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#0;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#td#3;tag#tr#0;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#1;tag#tbody#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="65" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/院校经历.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="28" selection-start="3841" selection-end="3893" vertical-scroll-proportion="-5.90625">
+          <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#table#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#0;tag#thead#0;tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="450" column="24" selection-start="18008" selection-end="18008" vertical-scroll-proportion="0.65636367">
+        <state line="369" column="10" selection-start="14768" selection-end="14768" vertical-scroll-proportion="0.38224638">
           <folding>
             <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -542,8 +539,8 @@
             <element signature="tag#li#23;tag#ul#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#0;tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#table#0;tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#table#0;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#table#1;tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>

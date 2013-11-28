@@ -3,8 +3,8 @@
 .UserInfo-top .PerImg,.UserInfo-top .PerImg img{width:100px;height:100px;display:inline-block;}
 .UserInfo-top .PerImg{position:relative;}
 .UserTbale{margin-left:10px;}
-.UserTbale th{color:#999;height:22px;vertical-align: top;}
-.UserTbale td{color:#666;vertical-align: top;}
+.UserTbale th{height:22px;vertical-align: top;}
+.UserTbale td{vertical-align: top;}
 .PerName{padding-bottom:10px;display:inline-block;line-height:20px;}
 .Info{border-top:1px dotted;}
 .Info th,.Info td{padding:15px 0;height:10px;}
