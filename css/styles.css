@@ -18,6 +18,7 @@
 .Nav-ul li a{display:block;height:30px;line-height:30px;padding:0 10px;text-align: center;border-radius:5px;color:#000;}
 .Nav-ul li.current a,.Nav-ul li.current a:hover{background:#9E9E9E;color:#fff;}
 .Nav-ul li a:hover{background:#E5E5E5;}
+.Nav-ul li.AppSet.current a{background:none;}
 .AppNavT{padding:15px 10px 15px 15px;}
 .AppNavT ul li{float:left;margin:0 20px 0 0;}
 .AppNavT ul li a{color:#555;}
@@ -30,15 +31,24 @@
 .icon{width:14px;height:14px;font-size:0;line-height:0;zoom:1;display:inline-block;background-repeat:no-repeat;vertical-align: middle;position: relative;}
 .icon-user{background-position:0 -42px;margin-right:3px;top:-2px;}
 /*.icon-user:hover{background-position:-14px -42px;}*/
-.icon-edit{background-position:0 -14px;}
+.icon-edit{background-position:0 -14px;}/*编辑*/
 .icon-edit:hover,a:hover .icon-edit{background-position:-14px -14px;}
-.icon-delete{background-position:0 -28px;}
+.icon-delete{background-position:0 -28px;}/*删除*/
 .icon-delete:hover,a:hover .icon-delete{background-position:-14px -28px;}
-.icon-add{background-position:0 -126px;}
-.icon-mail{background-position:0 -84px;}
-.icon-phone{background-position:0 -140px;}
-.icon-phone2{background-position:0 -155px;}
-.icon-invite{background-position:0 -169px;}
+.icon-add{background-position:0 -126px;}/*添加*/
+.icon-mail{background-position:0 -84px;}/*邮件*/
+.icon-phone{background-position:0 -140px;}/*手机*/
+.icon-phone2{background-position:0 -155px;}/*座机*/
+.invite{line-height:26px;padding-left:2px;}
+.icon-invite{background-position:0 -169px;}/*酒杯*/
+.icon-set{background-position:0 0;}/*设置*/
+.icon-set:hover,.Nav-ul li.AppSet a .icon-set{background-position:-14px 0;}
+.Nav-ul li.AppSet a .icon-set{top:-1px;left:-2px;}
+.icon-card{background-position:0 -196px;}/*银行卡*/
+.icon-work{background-position:0 -210px;top:-2px;}/*工文包*/
+.icon-work2{background-position:0 -224px;}/*工文包2*/
+.icon-house{background-position:0 -238px;top:-1px;}/*房子*/
+
 
 /*搜索框插件*/
 .AppSequence{width:90px;height:30px;position: relative;}
