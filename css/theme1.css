@@ -3,7 +3,7 @@
 .word-ser li.current a,.button,.edit,.PopLeft ul li a.current{border-color:#0066CC;}/*主色*/
 .PerList li{border-color:#E7E7E7;}/*灰色边框*/
 .AppTopBar,.AppNavT ul li a:hover,.AppNavT ul li.current a,.PopTitle,.PerName,
-.a-link,.invite:hover,.invite,.Nav-ul li.AppSet a,.Nav-ul li.AppSet.current a{color:#0066CC;}
+.a-link,.invite:hover,.invite,.Nav-ul li.AppSet a,.Nav-ul li.AppSet.current a,.SearchResults dd a em{color:#0066CC;}
 .off{color:#004488;}/*关闭按钮的颜色-深色*/
 
 /*背景色*/
