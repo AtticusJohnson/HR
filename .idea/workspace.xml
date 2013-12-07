@@ -136,10 +136,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="续签合同-弹出.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="续签合同-弹出.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/续签合同-弹出.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="56" selection-start="4109" selection-end="4109" vertical-scroll-proportion="0.5248538">
+            <state line="100" column="56" selection-start="4109" selection-end="4109" vertical-scroll-proportion="-11.966666">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -151,10 +151,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="per-style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="per-style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/per-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="29" selection-start="1375" selection-end="1375" vertical-scroll-proportion="-20.0">
+            <state line="26" column="25" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.7256894">
               <folding />
             </state>
           </provider>
@@ -163,7 +163,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="28" selection-start="9322" selection-end="9322" vertical-scroll-proportion="0.0">
+            <state line="126" column="97" selection-start="8543" selection-end="8543" vertical-scroll-proportion="-6.32">
               <folding />
             </state>
           </provider>
@@ -207,11 +207,11 @@
         <option value="$PROJECT_DIR$/template/签订合同.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/template/合同设置.html" />
-        <option value="$PROJECT_DIR$/css/per-style.css" />
         <option value="$PROJECT_DIR$/css/theme1.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/template/签订合同-弹出.html" />
         <option value="$PROJECT_DIR$/template/续签合同-弹出.html" />
+        <option value="$PROJECT_DIR$/css/per-style.css" />
       </list>
     </option>
   </component>
@@ -530,23 +530,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/per-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="29" selection-start="1375" selection-end="1375" vertical-scroll-proportion="-20.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="0" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="28" selection-start="9322" selection-end="9322" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -564,7 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/续签合同-弹出.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="56" selection-start="4109" selection-end="4109" vertical-scroll-proportion="0.5248538">
+        <state line="100" column="56" selection-start="4109" selection-end="4109" vertical-scroll-proportion="-11.966666">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -572,6 +558,20 @@
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="97" selection-start="8543" selection-end="8543" vertical-scroll-proportion="-6.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/per-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.7256894">
+          <folding />
         </state>
       </provider>
     </entry>
