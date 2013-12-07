@@ -8,7 +8,7 @@
 .PerName{padding-bottom:10px;display:inline-block;line-height:20px;*padding-bottom:0;*margin-bottom:10px;}
 .Info{border-top:1px dotted;}
 .Info th,.Info td{padding:15px 0;height:10px;}
-.WorkStory th,.WorkStory td{padding:7px 0;color:#666;}
+.WorkStory th,.WorkStory td{padding:7px 0;color:#666;padding-left:5px;}
 .WorkStory thead th{font-size:13px;height:20px;line-height:20px;text-align: center;}
 .WorkStory tbody th{text-align:left;}
 .WorkStory tbody td{text-align:center;}
@@ -20,12 +20,11 @@
 .mine-work th,.mine-work td{padding:5px 0;}
 .mine-work th{font-size:14px;}
 .mine-work td{color:#999;}
-
-
-
-
-
-
+.contract th,.contract td,.contract tbody th{padding:4px 0;text-align: center; vertical-align:inherit;}
+.ContractTab{width:500px;}
+.ContractTab th,.ContractTab td{padding:10px 10px;}
+.write th,.write td{text-align: left;padding:10px 0;}
+.write td{padding-left: 10px;}
 
 
 
