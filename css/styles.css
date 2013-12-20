@@ -6,14 +6,14 @@
 .no-rl-boder{border-width:1px 0;}
 .border-bottom{border-width:0 0 1px 0;}
 /*框架外层样式*/
-.AppLayout{width:768px;margin:30px auto;min-height:600px;}
+.AppLayout{width:768px;margin:30px auto;}
 .AppTopBar{height:50px;line-height:50px;padding:0 10px 0 15px;}
 .AppLogo img{width:24px;height:24px;margin:13px 10px 0 0;}
 .TopBarl{height:50px;line-height:50px;}
 .TopBarl em{position:relative;top:-5px;}
-.AppMain{padding:10px;position:relative;z-index:10;}
+.AppMain{padding:10px;position:relative;z-index:5;min-height:600px;}
 /*导航*/
-.AppNav{padding:20px 10px 20px 0;height:35px;}
+.AppNav{padding:20px 10px 20px 0;height:35px;position: relative;z-index:20;}
 .Nav-ul li{float: left;width: auto;margin-left:10px;position:relative;}
 .Nav-ul li a{display:block;height:30px;line-height:30px;padding:0 10px;text-align: center;border-radius:5px;color:#000;}
 .Nav-ul li.current a,.Nav-ul li.current a:hover{background:#9E9E9E;color:#fff;}
@@ -22,7 +22,6 @@
 .AppNavT{padding:15px 10px 15px 15px;}
 .AppNavT ul li{float:left;margin:0 20px 0 0;}
 .AppNavT ul li a{color:#555;}
-
 /*图标*/
 .app-icon{font-size:0;line-height:0;zoom:1;display:inline-block;background-image:url("../img/app-ico.png");background-repeat:no-repeat;}
 .ico-search{width:18px;height:17px;background-position:0 0;}/*放大镜*/
@@ -42,6 +41,8 @@
 .invite{line-height:26px;padding-left:2px;}
 .icon-invite{background-position:0 -169px;}/*酒杯*/
 .icon-set{background-position:0 0;}/*设置*/
+.icon-move{background-position:0 -182px;}/*移动*/
+.icon-move:hover,a:hover .icon-move{background-position:-14px -182px;}/*移动*/
 .icon-set:hover,.Nav-ul li.AppSet a .icon-set{background-position:-14px 0;}
 .Nav-ul li.AppSet a .icon-set{top:-1px;left:-2px;}
 .icon-card{background-position:0 -196px;}/*银行卡*/
@@ -56,27 +57,45 @@ a:hover .icon-file,.icon-file:hover{background-position:-14px -266px;}/*转换*/
 a:hover .icon-por,.icon-por:hover{background-position:-14px -280px;}/*档案袋*/
 .icon-clander{background-position:0 -294px;}
 .icon-clander:hover,a:hover .icon-clander{background-position:-14px -294px;}
+.icon-pprev{background-position:0 -308px;}
+.icon-pprev:hover,a:hover .icon-pprev{background-position:-14px -308px;}
+.icon-ppprev{background-position:0 -336px;}
+.icon-ppprev:hover,a:hover .icon-ppprev{background-position:-14px -336px;}
+.icon-nnnext{background-position:0 -350px;}
+.icon-nnnext:hover,a:hover .icon-nnnext{background-position:-14px -350px;}
+.icon-nnext{background-position:0 -322px;}
+.icon-nnext:hover,a:hover .icon-nnext{background-position:-14px -322px;}
+.icon-stop{background-position:0 -364px;}
+.icon-stop:hover,a:hover .icon-stop{background-position:-14px -364px;}
+.icon-att{background-position:0 -378px;}
+.icon-back{background-position:0 -392px;}
+.icon-back:hover,a:hover .icon-back{background-position:-14px -392px;}
+.right{vertical-align:middle;margin-right:7px;}
+.icon-re{background-position:0 -406px;}
+.icon-re:hover,a:hover .icon-re{background-position:-14px -406px;}
 /*搜索框插件*/
-.AppSequence{width:90px;height:30px;position: relative;}
-.AppSequence a{line-height:30px;color:#000;}
+.AppSequence{min-width:90px;height:30px;position: relative;z-index:20;}
+.AppSequence a{line-height:20px;color:#000;}
 .AppSequence .ico-toogle{margin-left:2px;}
-.down-list{width: auto;min-width:90px;background-color:#fff;padding:5px 0;box-shadow:0 0 8px #999999;color:#737373;*border:1px solid #E7E7E7;border:1px solid #E7E7E7\0;max-height:300px;overflow-y:auto;position:absolute;z-index:999;border-radius:5px;top:28px;left:0;display:none;}
+.off-clear{right:38px;top:5px;color:#959595;background:#fff;position: absolute;font-size:14px;}
+.off-clear:hover{color:#333;}
+.down-list{width: auto;min-width:100px;background-color:#fff;padding:5px 0;box-shadow:0 0 8px #999999;color:#737373;*border:1px solid #E7E7E7;border:1px solid #E7E7E7\0;max-height:300px;overflow-y:auto;position:absolute;z-index:999;border-radius:5px;top:28px;left:0;display:none;}
 .down-list ul{padding:0!important;}
 .down-list li{display:block;line-height:20px;height:20px;cursor:pointer;padding:0 10px;margin:0!important;float:none!important;*padding-right:20px;}
 .down-list li:hover{color:#fff;}
 .AppSequence.current .down-list{display:block;}
 .AppSequence.current .ico-toogle{border-color:#333 transparent transparent transparent;}
-.search-area{width:216px;height:28px;border:1px solid #E7E7E7;background:#fff;position: relative;}
+.search-area{width:216px;height:28px;border:1px solid #E7E7E7;background:#fff;position: relative;z-index:10;}
 .search-area .search-int{width:175px;height:26px;line-height:26px;background:#fff;border:0;padding-left:6px;position:absolute;top:1px;left:1px; }
 .search-btn{width:26px;height:21px;background:#fff;display:inline-block;padding-top:5px;text-align: center;position:absolute;top:1px;right:2px;}
 .search-area .line-y{background:#E7E7E7;line-height:0;font-size:0;zoom:1;height:18px;padding:0 1px 0 0;position:absolute;top:5px;right:30px;}
 .search-area .off{right:34px;top:1px;color:#959595;background:#fff;}
 .search-area .off:hover{color:#333;}
 .SearchResults{border:1px solid #E7E7E7;width:400px;padding:5px 0;position: absolute;top:29px;right:-1px;background:#fff;z-index:20;box-shadow:0px 2px 5px #e5e5e5;max-height:138px;overflow-x:hidden;overflow-y: scroll;}
-.SearchResults dl{width:100%;position: relative;z-index:20;}
+.SearchResults dl{width:100%;position: relative;z-index:20;background:#fff;}
 .SearchResults dd a,.SearchResults dd{display:block;}
 .SearchResults dd{padding:0 10px;}
-.SearchResults dd a{height:25px;line-height:25px;border-bottom:1px dashed #e7e7e7;width:366px;padding:0 10px 0 4px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;color:#333;}
+.SearchResults dd a{height:25px;line-height:25px;border-bottom:1px dashed #e7e7e7;width:366px;*width:360px;padding:0 10px 0 4px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:inline-block;color:#333;}
 .SearchResults dd:last-child a{border:0;}
 .SearchResults dd a:hover{background-color:#EBEBEB;}
 .loading{height:20px;line-height:20px;text-align: center;}
@@ -116,31 +135,50 @@ a:hover .icon-por,.icon-por:hover{background-position:-14px -280px;}/*档案袋*
 .AppPop{padding:5px;border-radius:5px;background:url("../img/pop-mask-bg.png") repeat;position:absolute;z-index: 999;}
 .PopInner{background:#fff;}
 .PopTitle{background:#f7f7f7;border-bottom:1px solid #eaeaea;height:32px;line-height:32px;padding:10px 10px 10px 20px;position:relative;font-size:16px;}
-.PopMain{padding:25px 20px 20px 20px;min-height:200px;}
-.off{font-weight:bold;font-size:14px;padding:2px 5px;position:absolute;top:5px;right:5px;line-height:20px;cursor:pointer;}
+.PopMain{padding:25px 20px 20px 20px;}
+.off{font-weight:bold;font-size:14px;position:absolute;top:5px;right:5px;padding-bottom:3px;height:10px;line-height:10px;width:13px;text-align:center;cursor:pointer;}
 .PopLeft{width:80px;text-align:center;}
 .PopLeft ul li a{display:block;line-height:20px;height:20px;color:#333;padding:4px 5px;margin-bottom:5px;border-left:3px solid #fff;}
 .PopRight{min-height:320px;margin-left:80px;padding:5px;}
 /*按钮*/
-.button{padding:2px 10px;color:#fff;text-shadow:0 -1px 0 rgba(0,0,0,0.25);display:inline-block;line-height:20px;text-align: center;border:1px solid #ccc;cursor:pointer;box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);}
+.button{padding:2px 10px;color:#fff;min-width:45px;text-shadow:0 -1px 0 rgba(0,0,0,0.25);display:inline-block;line-height:20px;text-align: center;border:1px solid #ccc;cursor:pointer;box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);}
 .a-link:hover{text-decoration:underline;}
 .edit{width:100%;height:16px;line-height:16px;border:0;border-bottom:1px dotted;display: inline;background-color:#fff;}
 select.edit{padding-bottom:2px;height:auto;}
+.btn-group{position:relative;top:2px;}
+.btn-group>.button{float: left;}
+.btn-group>.button:first-child{border-radius:3px 0 0 3px;}
+.btn-group>.button+.button{border-left:1px solid #ccc;border-radius:0;}
+.btn-group>.button:last-child{border-radius:0 3px 3px 0;}
 /*下拉选择*/
 .ThemeSelect,.ThemeInput,.ThemeText{border:1px solid;border-radius:3px;transition:0.5s;}
 .ThemeSelect{padding:2px 2px 2px 10px;}
 .ThemeInput{height:24px;line-height:24px;padding-left:5px;}
 .ThemeText{padding: 5px;}
 .has-general{position: relative;}
-.control-label{position: absolute;width:auto;line-height:16px;height:16px;background:#fff;left:8px;top:5px;}
+.control-label{position: absolute;width:auto;line-height:16px;height:16px;background:#fff;left:7px;top:5px;}
 .has-error label.control-label{color:#B94A48;}
 .has-error .ThemeInput,.has-error .ThemeText,.has-error .ThemeInput:hover,.has-error .ThemeText:hover{border-color:#C09853;}
 .has-success .ThemeInput, .has-success .ThemeText,.has-success .ThemeInput:hover, .has-success .ThemeText:hover{border-color:#468847;}
 /*日历控件*/
+/*.CLswitch,.CLswitch span{position: relative;z-index:200;}*/
 .Clander{position: relative;}
-
-
-
+.TabClander tr td:hover{background-color:#fcdd68;color:#fff;transition:0.2s;cursor:pointer;}
+.TabClander tr td:hover a.a-link,.TabClander tr td:hover p{color:#fff;transition:0.2s;}
+.TabClander tr td.rest,.TabClander tr td.rest span{color:#b10304;}
+.TabClander tr td font{display:block;text-align:center;line-height:20px;color:#999;}
+.Clmonth{position:relative;z-index:2;}
+.Clmonth em{font-size:14px;}
+.Clmonth dl{position:absolute;top:20px;background:#fff;z-index:20;display:none;box-shadow:0 0 8px #999999;padding:5px;left:-40px;width:115px;*border:1px solid #E7E7E7;border:1px solid #E7E7E7\0;}
+.Clmonth dl dd{line-height:20px;float:left;width:35px;text-align:center;cursor: pointer;display:inline-block;}
+.Clmonth dl dd:hover{text-decoration:underline;}
+.Clmonth.current dl{display:block;}
+.Clmonth2 dl{width:190px;}
+.Clmonth2 dl dd{width:90px;}
+/*弹出层通用的table*/
+.PopTable th{padding-right:20px;text-align:right;font-size: 14px;}
+.PopTable td{height:40px;padding-left:5px;}
+.AppPop .PerListmini li{margin:0 8px 20px 16px;}
 
 
 
