@@ -121,7 +121,6 @@ a:hover .icon-por,.icon-por:hover{background-position:-14px -280px;}/*档案袋*
 .PerList .CardBt h2{line-height:17px;float:left;width:30px;height:35px;margin-top:3px;text-align:center;}
 .PerList .CardBt p{line-height:18px;}
 .PerList .CardBt p span{float:right;color:#999}
-.PerList .CarTime{margin-top:3px;}
 .contract li:hover{cursor: inherit;}
 /*分页器*/
 .pagenation{position:absolute;bottom:10px;right:20px;}
@@ -179,7 +178,7 @@ select.edit{padding-bottom:2px;height:auto;}
 .PopTable th{padding-right:20px;text-align:right;font-size: 14px;}
 .PopTable td{height:40px;padding-left:5px;}
 .AppPop .PerListmini li{margin:0 8px 20px 16px;}
-.PerList li p.alignright{border-top:1px solid;padding:5px 0 2px 0;margin-top:5px;}
+.PerList li p.alignright,.CardBt{border-top:1px solid;padding:5px 0 2px 0;margin-top:5px;}
 
 
 

@@ -4,8 +4,7 @@
     <list default="true" id="0c12a4a4-5a54-4b92-bb31-90c33a042288" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme1.css" afterPath="$PROJECT_DIR$/css/theme1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/新增员工.html" afterPath="$PROJECT_DIR$/template/新增员工.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template2/汇总维护.html" afterPath="$PROJECT_DIR$/template2/汇总维护.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/到期合同.html" afterPath="$PROJECT_DIR$/template/到期合同.html" />
     </list>
     <ignored path="HR.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,7 +126,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="48" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.26795095">
+            <state line="123" column="0" selection-start="8077" selection-end="8077" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -136,7 +135,16 @@
       <file leaf-file-name="theme1.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
+            <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="到期合同.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/到期合同.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="175" column="54" selection-start="7368" selection-end="7368" vertical-scroll-proportion="-47.25">
               <folding />
             </state>
           </provider>
@@ -219,16 +227,16 @@
         <option value="$PROJECT_DIR$/template/工作经历.html" />
         <option value="$PROJECT_DIR$/template/社会信息.html" />
         <option value="$PROJECT_DIR$/template/弹出-合同信息.html" />
-        <option value="$PROJECT_DIR$/template/到期合同.html" />
         <option value="$PROJECT_DIR$/template/签订合同.html" />
         <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/template/合同设置.html" />
         <option value="$PROJECT_DIR$/template/签订合同-弹出.html" />
         <option value="$PROJECT_DIR$/css/per-style.css" />
         <option value="$PROJECT_DIR$/template/续签合同-弹出.html" />
-        <option value="$PROJECT_DIR$/css/theme1.css" />
         <option value="$PROJECT_DIR$/template2/汇总维护.html" />
         <option value="$PROJECT_DIR$/template/新增员工.html" />
+        <option value="$PROJECT_DIR$/css/theme1.css" />
+        <option value="$PROJECT_DIR$/template/到期合同.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
@@ -440,11 +448,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/到期合同.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="31" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/签订合同.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="10" selection-start="0" selection-end="9672" vertical-scroll-proportion="0.0">
@@ -503,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template2/考勤汇总/按日期查看列表.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="123" column="22" selection-start="5364" selection-end="5369" vertical-scroll-proportion="-9.8125">
@@ -558,9 +554,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/theme1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/到期合同.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="175" column="54" selection-start="7368" selection-end="7368" vertical-scroll-proportion="-47.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="48" selection-start="2286" selection-end="2286" vertical-scroll-proportion="0.26795095">
+        <state line="123" column="0" selection-start="8077" selection-end="8077" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
