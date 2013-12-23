@@ -38,7 +38,7 @@
 .icon-mail{background-position:0 -84px;}/*邮件*/
 .icon-phone{background-position:0 -140px;}/*手机*/
 .icon-phone2{background-position:0 -155px;}/*座机*/
-.invite{line-height:26px;padding-left:2px;}
+.invite{padding-left:2px;}
 .icon-invite{background-position:0 -169px;}/*酒杯*/
 .icon-set{background-position:0 0;}/*设置*/
 .icon-move{background-position:0 -182px;}/*移动*/
@@ -179,7 +179,7 @@ select.edit{padding-bottom:2px;height:auto;}
 .PopTable th{padding-right:20px;text-align:right;font-size: 14px;}
 .PopTable td{height:40px;padding-left:5px;}
 .AppPop .PerListmini li{margin:0 8px 20px 16px;}
-
+.PerList li p.alignright{border-top:1px solid;padding:5px 0 2px 0;margin-top:5px;}
 
 
 
