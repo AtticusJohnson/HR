@@ -6,7 +6,7 @@
 .no-rl-boder{border-width:1px 0;}
 .border-bottom{border-width:0 0 1px 0;}
 /*框架外层样式*/
-.AppLayout{width:768px;margin:30px auto;}
+.AppLayout{width:768px;margin:auto;}
 .AppTopBar{height:50px;line-height:50px;padding:0 10px 0 15px;}
 .AppLogo img{width:24px;height:24px;margin:13px 10px 0 0;}
 .TopBarl{height:50px;line-height:50px;}
@@ -19,11 +19,11 @@
 .Nav-ul li.current a,.Nav-ul li.current a:hover{background:#9E9E9E;color:#fff;}
 .Nav-ul li a:hover{background:#E5E5E5;}
 .Nav-ul li.AppSet.current a{background:none;}
-.AppNavT{padding:15px 10px 15px 15px;}
+.AppNavT{padding:15px 10px 15px 15px;position:relative;}
 .AppNavT ul li{float:left;margin:0 20px 0 0;}
 .AppNavT ul li a{color:#555;}
 /*图标*/
-.app-icon{font-size:0;line-height:0;zoom:1;display:inline-block;background-image:url("../img/app-ico.png");background-repeat:no-repeat;}
+.app-icon{font-size:0;line-height:0;zoom:1;display:inline-block;background-image:url("../images/app-ico.png");background-repeat:no-repeat;}
 .ico-search{width:18px;height:17px;background-position:0 0;}/*放大镜*/
 .ico-toogle{background:none;width:0;height:0;border:5px solid;border-color:#333 transparent transparent transparent;display:inline-block;margin-left:6px;position:relative;top:2px;cursor:pointer;}
 .current .ico-toogle{border-color:#fff transparent transparent transparent;}
@@ -105,11 +105,15 @@ a:hover .icon-por,.icon-por:hover{background-position:-14px -280px;}/*档案袋*
 .word-ser li{display:block;margin-bottom:2px;}
 .word-ser li a{line-height:20px;border-right:2px solid #E7E7E7;height:20px;text-align:center;display: block;color:#737373;}
 .word-ser li.current a{color:#fff;}
+.word-ser li.noname a{color:#ccc!important;cursor: inherit;}
+.word-ser li.noname a:hover{background: none!important;}
+.gotop{position:absolute;top:-40px;right:12px;z-index:100;}
 /*增加一行*/
 .add-more{height:25px;line-height:25px;background:#F5F5F5;color:#666;border:1px solid #D5D5D5;}
 .add-more:hover{background:#fff;}
 /*用户名片*/
-.PerList li{float:left;display:block;width:158px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 15px 9px;padding:5px;border-radius:3px;}
+.PerList li{float:left;display:block;width:158px;height:auto;border-width:1px;border-style:solid;cursor:pointer;margin:0 0 9.5px 9px;padding:5px;border-radius:3px;}
+.contract li{margin:0 0 13.5px 9px;}
 .PerList li .PerImg,.PerList li .PerImg img{display:block;width:60px;height:60px;border-radius:3px;}
 .PerList li .PerImg{padding:1px;border:1px solid #fff;backdground:#fff;}
 .PerList li .PerImg img{vertical-align:bottom;}
@@ -131,7 +135,7 @@ a:hover .icon-por,.icon-por:hover{background-position:-14px -280px;}/*档案袋*
 .pageBt span,.pageBt a{color:#333;margin:3px 0 0 20px;display:inline-block;}
 .pageBt span{color:#999;}
 /*弹出层*/
-.AppPop{padding:5px;border-radius:5px;background:url("../img/pop-mask-bg.png") repeat;position:absolute;z-index: 999;}
+.AppPop{padding:5px;border-radius:5px;background:url("../images/pop-mask-bg.png") repeat;position:absolute;z-index: 999;}
 .PopInner{background:#fff;}
 .PopTitle{background:#f7f7f7;border-bottom:1px solid #eaeaea;height:32px;line-height:32px;padding:10px 10px 10px 20px;position:relative;font-size:16px;}
 .PopMain{padding:25px 20px 20px 20px;}
@@ -159,6 +163,11 @@ select.edit{padding-bottom:2px;height:auto;}
 .has-error label.control-label{color:#B94A48;}
 .has-error .ThemeInput,.has-error .ThemeText,.has-error .ThemeInput:hover,.has-error .ThemeText:hover{border-color:#C09853;}
 .has-success .ThemeInput, .has-success .ThemeText,.has-success .ThemeInput:hover, .has-success .ThemeText:hover{border-color:#468847;}
+.has-error .edit{border-color:#C09853;}
+.has-success .edit{border-color:#468847;}
+.g-edit label{top:0px;left:5px;}
+.g-edit td{padding-right:10px;}
+.g-edit .Info th,.g-edit .Info td{padding:8px 10px;}
 /*日历控件*/
 /*.CLswitch,.CLswitch span{position: relative;z-index:200;}*/
 .Clander{position: relative;}
@@ -181,8 +190,16 @@ select.edit{padding-bottom:2px;height:auto;}
 .PerList li p.alignright,.CardBt{border-top:1px solid;padding:5px 0 2px 0;margin-top:5px;}
 
 
+.alertDialog,.warningDialog,.errorDialog{background-color:#CFFBC7;border:2px solid #FFFFFF;border-radius:6px;color:green;font-size:20px;padding:10px 40px 10px 20px;
+    box-shadow:0 0 40px #000000;position:fixed;text-align:left;z-index:9999;}
+a.close{background:#fff;display: block;font-size:20px;font-weight: 700;border-radius:10px;overflow: hidden;position: absolute;height:20px;right:10px;line-height: 16px;color:#119900;top:12px; text-align: center;width:20px;}
+a.close:hover{text-decoration: none;}
+.errorDialog{background-color:#ec8778;color:#a73524;}
+.errorDialog a.close{color:#c69385;}
 
-
+.mask{width:100%;height:100%;position: fixed;left:0;top:0;text-align: center;background:url(../images/mask-bg.png) repeat;z-index: 9999;}
+.mask-x{display:inline-block;position: absolute;top:50%;left:50%;margin:-10px 0 0 -60px;z-index: 100;color:#000;
+    background-image: url(../images/loading-ico.gif);background-position:left center;background-repeat:no-repeat; background-color:#fff;padding-left:25px;padding:2px 25px;}
 
 
 

@@ -15,7 +15,7 @@
 .off:hover{color:#fff!important;}
 /*按钮*/
 .button{border-bottom-color:#004488;border-radius:3px;font-size:12px;}
-.icon{background-image:url("../img/theme1/theme-ico.png");position: relative;top:-1px;margin-right:2px;}
+.icon{background-image:url("../images/theme1/theme-ico.png");position: relative;top:-1px;margin-right:2px;}
 .quit{background-color:#f3f2f0;color:#989899;border-color:#d3d3d3;text-shadow:0 -1px 0 #ccc;}
 .quit:hover{background-color:#f3f2f0;}
 

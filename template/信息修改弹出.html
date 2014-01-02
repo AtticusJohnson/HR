@@ -31,20 +31,40 @@
         </div>
         <!--左侧类目over-->
         <!--右侧详细信息begin-->
-        <div class="PopRight border-solid">
+        <div class="PopRight g-edit border-solid">
             <div class="UserInfo-top">
-                <span class="PerImg floatleft"><img src="../img/photo1.jpg"></span>
+                <span class="PerImg floatleft"><img src="../images/photo1.jpg"></span>
                 <table class="UserTbale floatleft" width="350">
-                    <tr><th colspan="4"><em class="icon icon-user"></em><span class="PerName font16"><input type="text" class="edit"></span></th></tr>
+                    <tr>
+                        <th colspan="4">
+                            <em class="icon icon-user"></em>
+                            <span class="PerName font16">
+                                <div class="has-general has-error">
+                                     <input class="edit">
+                                     <label class="control-label">请填写正确的编号</label>
+                                </div>
+                            </span>
+                        </th>
+                    </tr>
                     <tr>
                         <th width="80">部门：</th>
-                        <td colspan="3"><input type="text" class="edit"></td>
+                        <td colspan="3">
+                            <div class="has-general has-success">
+                                 <input class="edit">
+                                 <label class="control-label"></label>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <th>职级：</th>
                         <td width="80"><input type="text" class="edit"></td>
                         <th width="60">职位：</th>
-                        <td><input type="text" class="edit"></td>
+                        <td>
+                            <div class="has-general has-error">
+                                 <input class="edit">
+                                 <label class="control-label">请填写正确的编号</label>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <th>入职日期：</th>
