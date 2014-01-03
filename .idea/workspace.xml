@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c12a4a4-5a54-4b92-bb31-90c33a042288" name="Default" comment="" />
+    <list default="true" id="0c12a4a4-5a54-4b92-bb31-90c33a042288" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/work.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/theme1/theme-ico.png" afterPath="$PROJECT_DIR$/images/theme1/theme-ico.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/per-style.css" afterPath="$PROJECT_DIR$/css/per-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/信息修改弹出.html" afterPath="$PROJECT_DIR$/template/信息修改弹出.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/到期合同.html" afterPath="$PROJECT_DIR$/template/到期合同.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/员工合同.html" afterPath="$PROJECT_DIR$/template/员工合同.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/工作经历.html" afterPath="$PROJECT_DIR$/template/工作经历.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/新增员工.html" afterPath="$PROJECT_DIR$/template/新增员工.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/社会信息.html" afterPath="$PROJECT_DIR$/template/社会信息.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/签订合同.html" afterPath="$PROJECT_DIR$/template/签订合同.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/续签合同-弹出.html" afterPath="$PROJECT_DIR$/template/续签合同-弹出.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/院校经历.html" afterPath="$PROJECT_DIR$/template/院校经历.html" />
+    </list>
     <ignored path="HR.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1388712938542" ignored="false" />
+    <file path="/work.html" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1388716151231" ignored="false" />
+    <file path="/styles.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1388716513376" ignored="false" />
+    <file path="/per-style.css" changelist="0c12a4a4-5a54-4b92-bb31-90c33a042288" time="1388716095917" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,70 +46,47 @@
       <file leaf-file-name="personnel-files.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="387" column="66" selection-start="15578" selection-end="15578" vertical-scroll-proportion="0.0" vertical-offset="9288" max-vertical-offset="11184">
+            <state line="387" column="66" selection-start="15578" selection-end="15578" vertical-scroll-proportion="-0.84375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="合同设置.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/合同设置.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="50" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="3408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="弹出-合同信息.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/弹出-合同信息.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="26" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="2568">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="per-style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="per-style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/per-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="169" selection-start="439" selection-end="439" vertical-scroll-proportion="0.16528925" vertical-offset="0" max-vertical-offset="1488">
+            <state line="29" column="11" selection-start="1651" selection-end="1651" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="我的档案.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/我的档案.html">
+      <file leaf-file-name="到期合同.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/到期合同.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="66" selection-start="3452" selection-end="3452" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="5112">
+            <state line="268" column="0" selection-start="12077" selection-end="12077" vertical-scroll-proportion="-4.59375">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#1;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="新增员工.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/新增员工.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="224" column="0" selection-start="9514" selection-end="9514" vertical-scroll-proportion="-10.6875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="84" selection-start="11644" selection-end="11644" vertical-scroll-proportion="0.0" vertical-offset="4056" max-vertical-offset="5136">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="信息修改弹出.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="31" selection-start="1507" selection-end="1512" vertical-scroll-proportion="-13.24138" vertical-offset="504" max-vertical-offset="3408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="签订合同-弹出.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/签订合同-弹出.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="24" selection-start="2521" selection-end="2521" vertical-scroll-proportion="-0.0" vertical-offset="1464" max-vertical-offset="2880">
+            <state line="123" column="64" selection-start="8008" selection-end="8008" vertical-scroll-proportion="0.3625219">
               <folding />
             </state>
           </provider>
@@ -98,7 +95,46 @@
       <file leaf-file-name="theme1.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/theme1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="792">
+            <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="72" selection-start="2399" selection-end="2399" vertical-scroll-proportion="-8.8125">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#thead#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#4;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#5;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#6;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#tr#7;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/global.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="19" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1388715516651" expanded="true" signature="1298:1322" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="信息修改弹出.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="560" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -122,30 +158,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/template/社会信息.html" />
-        <option value="$PROJECT_DIR$/template/签订合同.html" />
-        <option value="$PROJECT_DIR$/css/global.css" />
-        <option value="$PROJECT_DIR$/template/续签合同-弹出.html" />
-        <option value="$PROJECT_DIR$/template2/汇总维护.html" />
-        <option value="$PROJECT_DIR$/template/新增员工.html" />
-        <option value="$PROJECT_DIR$/css/theme1.css" />
-        <option value="$PROJECT_DIR$/template/到期合同.html" />
-        <option value="$PROJECT_DIR$/template/签订合同-弹出.html" />
-        <option value="$PROJECT_DIR$/template/我的档案.html" />
         <option value="$PROJECT_DIR$/template/personnel-files.html" />
         <option value="$PROJECT_DIR$/template/合同设置.html" />
         <option value="$PROJECT_DIR$/template/弹出-合同信息.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/template/员工合同.html" />
+        <option value="$PROJECT_DIR$/template/工作经历.html" />
+        <option value="$PROJECT_DIR$/template/社会信息.html" />
+        <option value="$PROJECT_DIR$/template/签订合同.html" />
+        <option value="$PROJECT_DIR$/template/续签合同-弹出.html" />
+        <option value="$PROJECT_DIR$/template/院校经历.html" />
         <option value="$PROJECT_DIR$/template/信息修改弹出.html" />
+        <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/css/per-style.css" />
+        <option value="$PROJECT_DIR$/template/work.html" />
+        <option value="$PROJECT_DIR$/template/到期合同.html" />
+        <option value="$PROJECT_DIR$/template/新增员工.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -217,8 +253,8 @@
     <property name="last_opened_file_path" value="E:/kuaipan/标致/12月/301 12-4" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -259,20 +295,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12360387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12360387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -290,10 +326,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
     </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -301,161 +385,134 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="387" column="66" selection-start="15578" selection-end="15578" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11184">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/合同设置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="3408">
+        <state line="387" column="66" selection-start="15578" selection-end="15578" vertical-scroll-proportion="-0.84375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/弹出-合同信息.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="26" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="2568">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/per-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1440">
+        <state line="39" column="24" selection-start="1711" selection-end="1711" vertical-scroll-proportion="0.3423913">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/我的档案.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="66" selection-start="3452" selection-end="3452" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="5112">
+        <state line="92" column="36" selection-start="4018" selection-end="4018" vertical-scroll-proportion="0.6213768">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/template/社会信息.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="0" selection-start="11145" selection-end="11145" vertical-scroll-proportion="0.0" vertical-offset="4056" max-vertical-offset="5136">
-          <folding />
+        <state line="36" column="63" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.22310758">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
+    <entry file="file://$PROJECT_DIR$/template/签订合同.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="53" selection-start="2780" selection-end="2780" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="3336">
+        <state line="199" column="72" selection-start="8316" selection-end="8316" vertical-scroll-proportion="10.119522">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/签订合同-弹出.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="24" selection-start="2521" selection-end="2521" vertical-scroll-proportion="0.0" vertical-offset="1464" max-vertical-offset="2880">
+        <state line="67" column="33" selection-start="2816" selection-end="2816" vertical-scroll-proportion="1.6630435">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/theme1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="792">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/工作经历.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="782" selection-end="782" vertical-scroll-proportion="-0.3" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="47" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/续签合同-弹出.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="4037" selection-end="4037" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state line="36" column="63" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.38446215">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template2/考勤汇总/按日期查看列表.html">
+    <entry file="file://$PROJECT_DIR$/template/院校经历.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="22" selection-start="5364" selection-end="5369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state line="36" column="63" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.22310758">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template2/汇总维护.html">
+    <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="14" selection-start="5673" selection-end="5673" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/新增员工.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="361" column="17" selection-start="15879" selection-end="15879" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state line="0" column="0" selection-start="0" selection-end="560" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/theme1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+        <state line="8" column="67" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="19" selection-start="3501" selection-end="3501" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1388715516651" expanded="true" signature="1298:1322" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/per-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="1651" selection-end="1651" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="72" selection-start="2399" selection-end="2399" vertical-scroll-proportion="-8.8125">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#thead#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#4;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#5;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#6;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#tr#7;tag#tbody#0;tag#table#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/到期合同.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="416" column="54" selection-start="19542" selection-end="19542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/我的档案.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="66" selection-start="3452" selection-end="3452" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="5112">
-          <folding />
+        <state line="268" column="0" selection-start="12077" selection-end="12077" vertical-scroll-proportion="-4.59375">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/personnel-files.html">
+    <entry file="file://$PROJECT_DIR$/template/新增员工.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="387" column="66" selection-start="15578" selection-end="15578" vertical-scroll-proportion="0.0" vertical-offset="9288" max-vertical-offset="11184">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/合同设置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="3408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/弹出-合同信息.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="26" selection-start="1330" selection-end="1330" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="2568">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/信息修改弹出.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="31" selection-start="1507" selection-end="1512" vertical-scroll-proportion="-13.24138" vertical-offset="504" max-vertical-offset="3408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/签订合同-弹出.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="24" selection-start="2521" selection-end="2521" vertical-scroll-proportion="0.0" vertical-offset="1464" max-vertical-offset="2880">
+        <state line="224" column="0" selection-start="9514" selection-end="9514" vertical-scroll-proportion="-10.6875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="84" selection-start="11644" selection-end="11644" vertical-scroll-proportion="0.0" vertical-offset="4056" max-vertical-offset="5136">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/per-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="169" selection-start="439" selection-end="439" vertical-scroll-proportion="0.16528925" vertical-offset="0" max-vertical-offset="1488">
+        <state line="123" column="64" selection-start="8008" selection-end="8008" vertical-scroll-proportion="0.3625219">
           <folding />
         </state>
       </provider>
