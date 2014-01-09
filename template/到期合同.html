@@ -45,15 +45,16 @@
         <!--排序搜索begin-->
         <div class="clearfix gotop">
             <!--排序begin-->
-            <div class="AppSequence floatleft marr10 current"><!--加current下拉框显示-->
-                <a href="#">按时间排序</a>
-                <em class="app-icon ico-toogle"></em>
-                <div class="down-list">
-                    <ul>
-                        <li>按时间排序</li>
-                        <li>按类别排序</li>
-                        <li>按紧急排序</li>
-                    </ul>
+            <div class="AppSequence md-plus-sequence floatleft marr20 current"> <!--此处加减current 控制下拉框的显隐，你懂得！-->
+                <div class="block"><!--此处dom变了,上下分别是md-mi-up,md-mi-down-->
+                    <em class="md-ico md-ico-seq"></em>
+                    <a href="#">按类别排序</a>
+                    <em class="app-icon ico-toogle"></em>
+                </div>
+                <div class="md-seq-down" style="">
+                    <em class="em-ti-top"></em>
+                    <a href="#"><em class="md-ico md-choosed"></em>按类别排序</a>
+                    <a href="#" class="noborder"><em class="md-ico md-choose"></em>按时间排序</a>
                 </div>
             </div>
             <!--排序over-->
